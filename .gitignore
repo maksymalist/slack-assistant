@@ -163,3 +163,4 @@ credentials.json
 /storage/
 ./storage/*
 storage
+.vercel
