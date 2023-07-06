@@ -2,3 +2,4 @@ slackclient
 slackeventsapi
 dotenv
 langchain
+flask
