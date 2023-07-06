@@ -161,6 +161,4 @@ cython_debug/
 
 credentials.json
 
-./storage/*
-storage/*
-storage/**/*
+/storage/
